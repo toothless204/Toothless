@@ -18,7 +18,7 @@ My long-term mission is simple:
 
 I’m currently building myself around four core areas:
 
-* **Mathematics** — optimization, systems thinking, and decision analysis
+* **Mathematics** — optimization, systems thinking, system modelling, and decision analysis
 * **Economics** — finance, macroeconomics, and business strategy
 * **Technology** — interaction design, machine learning, and system design
 * **Leadership** — philosophy, project management, strategic thinking, writing, and speech
